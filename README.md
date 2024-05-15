@@ -8,17 +8,4 @@ You will be really impressed when you use it Because it has smooth operation, us
 
 “Apartment Management System” is built by using PHP, Mysql, Javascript, jQuery and Ajax. Fully Responsive Application.
 
-	FEATURES
-	Built for apartment, useful for everyone.
-	Five steps dashboard SUPER ADMIN, ADMIN, RENTER, EMPLOYEE, OWNER.
-	Multi Branch Ready
-	Build-in 3 languages (English, Bangla, Spanish).
-	Customer can add new language file.
-	Manage all reporting.
-	Manage all Settings.
-	Fully responsive.
-	Suitable for all platforms.
-	Extremely flexible interface.
-	Whole apartment management system at your fingertips.
-	Smooth operation, user friendly interface, full of functionality and compatible features.
-	You can Expandable, customizable and fully supported by us!
+	
